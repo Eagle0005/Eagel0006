@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.242 s <<< FAILURE! - in runner.TestRunner
+initializationError(runner.TestRunner)  Time elapsed: 0.013 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: @CucumberOptions(strict=false) is no longer supported. Please use strict=true
+

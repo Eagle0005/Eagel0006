@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hawks
+Bundle-SymbolicName: com.tekschool.us.retail.hawks
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: com.tekschool.us.retail.hawks
+Export-Package: core,
+ features,
+ input,
+ runner,
+ stepDefinitions
